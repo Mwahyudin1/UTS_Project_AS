@@ -1,0 +1,3 @@
+=== LAPORAN AUTOMATION SYSTEMS UTS ===
+Total Buku Berhasil Diproses: 25 data.
+Status: Sukses diekstrak menggunakan BeautifulSoup & Regex.
